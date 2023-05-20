@@ -1,70 +1,24 @@
-<h1 align="center">Hi there 👋, I am Amar Khamkar</h1>
-<h3 align="center">A SOFTWARE & AR ENGINEER</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amark19&label=Profile%20views&color=0e75b6&style=flat" alt="Amar-Khamkar" /> </p>
-
-#### 🤔 Who Is Amar Khamkar ??
-  
-- 💻 He is currently in 4th year and pursuing Bachelors of Engineering...  
-
-- 🎮 Ex sde intern at HackerRank
-
-- 📊 currently learing new technologies
-  
-- 🌱 He is currently developing multiple applications using django,unity & flutter...
-  
-- 💬 You can ask him about GameDev, python & how to start with AR in unity...
-  
-  
- </p>
- 
- ### **Some Live Projects**
-
-<a href="https://www.calcont.in/"><img src="https://img.shields.io/badge/Calcont(15k+ traffic)-343434?style=for-the-badge&logo=webpage&logoColor=#FF7139"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.ARLAB"><img src="https://img.shields.io/badge/ARLab-9820a7?style=for-the-badge&logo=webpage&logoColor=#FF7139"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.monuverse"><img src="https://img.shields.io/badge/monuverse-004369?style=for-the-badge&logo=webpage&logoColor=#004369"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp"><img src="https://img.shields.io/badge/safewrite-e3b341?style=for-the-badge&logo=webpage&logoColor=#e3b341"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp"><img src="https://img.shields.io/badge/ARPuzzle-dca0ee?style=for-the-badge&logo=webpage&logoColor=#dca0ee"/></a>
-<h3 align="left">Connect with me</h3>
-<a href="https://www.linkedin.com/in/amar-khamkar-2710731a5/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amar-khamkar-2710731a5/" /></a>
-<a href="mailto:amarkhamkar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/aprendiz_studio_/" target="blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/aprendiz_studio_/" /></a>
-<a href="https://www.reddit.com/user/not_interested_19" target="blank"><img  src="https://img.shields.io/badge/Reddit-db561d.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="not_interested_19" /></a>
- 
-### 🔭 **Technology Stack**
-
-#### **Programming Languages**:
-
-<img height=23 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/csharp-%23007ACC.svg?style=for-the-badge&logo=csharp&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img height=23 src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&style=flat&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Dart-9820a7.svg?logo=Dart&style=flat&logoColor=white">&nbsp;&nbsp;
+# 💫 About Me:
+🔭 I’m currently working on Memories Media App<br>🤝 I’m looking for help with Memories Media App<br>🌱 I’m currently learning ExpressJs , NodeJs, MongoDb<br>💬 Ask me about ReactJs , MaterialUI , Cpp 
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Scoop_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehal-kupekar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Snehaldk1911) 
 
-#### **Frameworks, Platforms and Libraries**:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Snehal-Kupekar&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Snehal-Kupekar&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehal-Kupekar&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img height=23 src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/unity-%23000.svg?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/flask-6f777e?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/arfoundation-291ac1?style=for-the-badge&logo=arfoundation&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB">&nbsp;&nbsp;
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Snehaldk1911)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-#### **Servers**:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img height=23 src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/apache-%232C5263.svg?style=for-the-badge&logo=apache&logoColor=white">
+---
+[![](https://visitcount.itsvg.in/api?id=Snehal-Kupekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##### **Databases**:
-
-<img height=23 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=#00C7B7)">&nbsp;&nbsp;
-
-#### **Hosting/SaaS**:
-
-<img height=23 src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-
-#### **Version Control**:
-
-<img height=23 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
-#### **ML/DL**:
-
-<img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sklearn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amark19&show_icons=true&layout=compact&locale=en&theme=tokyonight" alt="Amark19" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=Amark19&theme=dark" alt="Amark19" /></p>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amark19&theme=xcode" alt="SAmark19  GitHub activity graph"/>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
