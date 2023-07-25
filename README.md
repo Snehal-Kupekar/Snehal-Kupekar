@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Memories Media App<br>🤝 I’m looking for help with Memories Media App<br>🌱 I’m currently learning ExpressJs , NodeJs, MongoDb<br>💬 Ask me about ReactJs , MaterialUI , Cpp 
+🔭 I’m currently working on Portfolio<br>🤝 I’m looking for help with Memories Media App<br>🌱 I’m currently learning ExpressJs , NodeJs, MongoDb<br>💬 Ask me about ReactJs , MaterialUI , Cpp 
 
 
 ## 🌐 Socials:
